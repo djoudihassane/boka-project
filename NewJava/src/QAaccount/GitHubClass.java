@@ -5,5 +5,7 @@ public class GitHubClass {
 		System.out.println("setting up gethub platform");
 	}
 	
-
+public void secondCommit() {
+	System.out.println("hello word");
+}
 }
